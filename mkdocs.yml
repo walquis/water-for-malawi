@@ -11,3 +11,5 @@ theme:
     - scheme: default
       primary: blue
       accent: deep orange
+extra_css:
+  - styles.css

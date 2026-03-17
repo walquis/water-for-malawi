@@ -1,0 +1,17 @@
+.image-with-caption {
+  text-align: center;
+  margin: 0.75rem 0;
+}
+
+.image-with-caption img {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-with-caption .caption {
+  display: block;      /* put caption on its own line */
+  margin-top: 4px;     /* small gap under image */
+  font-style: italic;
+  color: #555;
+}
+

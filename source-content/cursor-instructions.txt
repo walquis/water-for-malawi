@@ -1,0 +1,31 @@
+Create a water for life website:
+
+Foundation Committee of the Rotary Club of Downers Grove
+
+Purpose: Tell the story of the work being done in Malawi by the Foundation Committee of the Rotary Club of Downers Grove
+
+Audience: Prospective partners in future grants
+- Rotary club officers and members who may want to participate and/or donate
+- Potential donors outside of Rotary
+- Friends who want to know what Rotary is about
+
+Menu:
+- Home - Foundation Committee of the Rotary Club of Downers Grove
+  - Committee members
+    - Chris Walquist - Foundation Committee Chair
+    - Harry McCabe
+    - Laura Trompeter
+    - Randa Bishlawi
+- Grants - a list of grants, in descending chronological order.
+  - GG2688284 - A global grant currenty seeking approval.
+  - GG2122731 - A past global grant from 2021.
+
+Instructions:
+- Drawing from the content in the source-content folder, create the website in mkdocs.
+- When creating a grant page, convert the grant application's 2026-02-17-GG2688284-DRAFT-R1.pdf file to markdown using pandoc, which is installed on this mac.  This is the primary source for describing the grant.
+- Add a github workflow that publishes the main and dev branches to github.
+- You may use 2026-02-17 Grant Fundraising Presentation-R1.pdf for source material, but keep in mind that it's derived from a ppt for a live presentation.
+- "GG2688284 Rotary Global Grant - Community Assessment Results.pdf" is source material for the 2026-02-17-GG2688284-DRAFT-R1.pdf grant application.
+
+- For GG2122731, GG2122731-malawi-wash-final-report.docx is the final report for that grant.
+

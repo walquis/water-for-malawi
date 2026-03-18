@@ -95,3 +95,16 @@
   color: rgb(25, 55, 115) !important;
 }
 
+/* Match document section headings to the left-nav deep-blue links. */
+.col-md-9[role="main"] a,
+.col-md-9[role="main"] h1,
+.col-md-9[role="main"] h2,
+.col-md-9[role="main"] h3,
+.col-md-9[role="main"] h4 {
+  color: rgb(35, 69, 137) !important;
+}
+
+/* When a heading is navigated-to via hash, ensure it is highlighted too. */
+.col-md-9[role="main"] :target {
+  color: rgb(35, 69, 137) !important;
+}

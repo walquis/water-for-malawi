@@ -22,3 +22,76 @@
   height: auto;
 }
 
+/* Show Downers Grove Rotary logo before site name in navbar */
+.navbar-brand::before {
+  content: "";
+  display: block;
+  width: 8rem; /* wide logo; avoids cutting sides */
+  height: 100%;
+  margin-right: 14px;
+  vertical-align: middle;
+  background: url("media/downers-grove-rotary-logo.jpg") no-repeat center;
+  /* Scale by height so the logo fills the header vertically. */
+  background-size: auto 100%;
+}
+
+/* Header / navbar colors: white background, custom blue text */
+.navbar.bg-primary {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  background-image: none !important;
+}
+
+/* Extra safety: override any other Bootstrap navbar link colors. */
+.navbar.bg-primary .nav-link,
+.navbar.bg-primary .navbar-brand,
+.navbar.bg-primary .dropdown-item {
+  color: rgb(35, 69, 137) !important;
+}
+
+.navbar.bg-primary .nav-link:hover,
+.navbar.bg-primary .nav-link:focus,
+.navbar.bg-primary .nav-link.active,
+.navbar.bg-primary .dropdown-item:hover,
+.navbar.bg-primary .dropdown-item:focus {
+  color: rgb(25, 55, 115) !important;
+}
+
+/* Keep the logo vertically centered with the header */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  height: 3.5rem; /* theme header height */
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 0;
+}
+
+/* When header background is white, Bootstrap's navbar-dark toggler icon can disappear.
+   Force it to the same deep-blue color as nav text. */
+.navbar.navbar-dark .navbar-toggler {
+  border-color: rgb(35, 69, 137) !important;
+}
+
+.navbar.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(35,69,137)' stroke-width='4' stroke-linecap='round' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* Sidebar (table of contents) colors */
+.bs-sidebar.card.bg-body-tertiary,
+.bs-sidebar.card {
+  background-color: #ffffff !important;
+}
+
+.bs-sidebar .nav > li > a,
+.bs-sidebar .nav > li > a.active,
+.bs-sidebar .nav .nav > li > a,
+.bs-sidebar .nav .nav > li > a.active {
+  color: rgb(35, 69, 137) !important; /* ~0.137, 0.270, 0.538 */
+}
+
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a:focus {
+  color: rgb(25, 55, 115) !important;
+}
+

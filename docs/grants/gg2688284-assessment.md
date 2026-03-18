@@ -1,14 +1,14 @@
 # Global Grants Community Assessment Results (October 2024)
 
-Use this form to report community assessment findings to The Rotary Foundation when you apply for a global grant.
+**Use this form to report community assessment findings to The Rotary Foundation when you apply for a global grant.**
 
-Assessing the strengths, weaknesses, needs, and assets of the community you plan to help is an essential first step in designing an effective and sustainable global grant project. See the Conducting Community Assessments handbook for full instructions and helpful tips.
+**Assessing the strengths, weaknesses, needs, and assets of the community you plan to help is an essential first step in designing an effective and sustainable global grant project. See the Conducting Community Assessments handbook for full instructions and helpful tips.**
 
-This form will help you report the results of your community assessment, and it is required when you apply for any humanitarian or vocational training team grant. Complete a separate form for each beneficiary community (e.g., school, health care system, or village), using information that is both current and specific to each community. Remember, you can't use global grant funds to cover the cost of doing an assessment, but you can use district grant funds.
+**This form will help you report the results of your community assessment, and it is required when you apply for any humanitarian or vocational training team grant. Complete a separate form for each beneficiary community (e.g., school, health care system, or village), using information that is both current and specific to each community. Remember, you can't use global grant funds to cover the cost of doing an assessment, but you can use district grant funds.**
 
 ## COMMUNITY OVERVIEW
 
-Describe the characteristics (such as geographic information, main sources of income, population size, and access to education and health services) of the specific community where this project will take place.
+**Describe the characteristics (such as geographic information, main sources of income, population size, and access to education and health services) of the specific community where this project will take place.**
 
 Senior Chief Ngakula, formerly known as Traditional Authority Nkagula, is a rural administrative unit in Malawi's chieftaincy system, located in Zomba District. It borders Lake Chilwa to the east and is adjacent to other Traditional Authorities, including Mwamibo, Malema, and Kuntumanji. The area features generally flat terrain with fertile soils that are well suited to crop production. As in most parts of Malawi, the primary land use is rain-fed agriculture, which serves as the economic mainstay for the community. Most households rely on farming for their livelihoods, with maize as the main food crop, supplemented by rice, cassava, sweet potatoes, groundnuts, beans, and pigeon peas. In addition, a smaller number of households near Lake Chilwa rely on fishing as a source of household income.
 

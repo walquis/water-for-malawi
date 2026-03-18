@@ -15,3 +15,10 @@
   color: #555;
 }
 
+/* Constrain content images on all pages (Bootstrap mkdocs theme). */
+.col-md-9[role="main"] img {
+  max-width: 480px !important;
+  width: 100%;
+  height: auto;
+}
+

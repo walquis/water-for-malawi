@@ -1,6 +1,5 @@
 site_name: Water for Malawi
 nav:
-  - Home: index.md
   - About Us: about.md
   - Grants:
       - GG2688284 - Current Global Grant:

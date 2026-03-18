@@ -1,5 +1,7 @@
 # Global Grants Community Assessment Results (October 2024)
 
+(This page is a representation of the Rotary Community Assessment form completed by Villages In Partnership).
+
 **Use this form to report community assessment findings to The Rotary Foundation when you apply for a global grant.**
 
 **Assessing the strengths, weaknesses, needs, and assets of the community you plan to help is an essential first step in designing an effective and sustainable global grant project. See the Conducting Community Assessments handbook for full instructions and helpful tips.**

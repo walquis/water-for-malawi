@@ -1,15 +1,16 @@
-site_name: Water for Life - Malawi
+site_name: Water for Malawi
 nav:
   - Home: index.md
   - About Us: about.md
   - Grants:
       - GG2688284 - Current Global Grant:
-          - overview: grants/gg2688284-landing.md
+          - Overview: grants/gg2688284-overview.md
           - Grant Application: grants/gg2688284.md
           - Community Assessment Results: grants/gg2688284-assessment.md
       - GG2122731 - 2021 Global Grant: grants/gg2122731.md
 theme:
   name: mkdocs
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: blue

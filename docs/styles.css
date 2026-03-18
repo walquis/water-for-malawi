@@ -108,10 +108,3 @@
 .col-md-9[role="main"] :target {
   color: rgb(35, 69, 137) !important;
 }
-
-/* Remove MkDocs attribution line from the footer. */
-footer.col-md-12 hr,
-footer.col-md-12 p {
-  display: none !important;
-}
-

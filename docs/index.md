@@ -16,7 +16,7 @@ Its resilient people suffer from a form of extreme poverty not seen anywhere in 
 ## Why [Villages In Partnership](https://villagesinpartnership.org)
 
 Harry McCabe has been a Rotarian since 1978. Harry became aware of VIP's work through 
-friendships in Christchurch of Oakbrook, and realized that their mission areas corresponded closely to Rotary's Seven Areas of Focus.  In 2021, Harry initiated a global water grant, [GG2122731](grants/gg2122731.md), in partnership with VIP and the Blantyre Rotary Club.
+friendships in Christ Church of Oakbrook, and realized that their mission areas corresponded closely to Rotary's Seven Areas of Focus.  In 2021, Harry initiated a global water grant, [GG2122731](grants/gg2122731.md), in partnership with VIP and the Blantyre Rotary Club.
 
 VIP concentrates on six Critical Resources: Water, Food Security, Education, Healthcare, Infrastructure, and Economic Opportunity.  They have six U.S. staff and 22 Malawi staff.
 
